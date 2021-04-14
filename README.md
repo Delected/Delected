@@ -4,3 +4,11 @@ Delected is licensed under the GNU/GPL v3 license
 - Not productive
 - Java, learning JS, maybe I'll get into it
 - Love open-source
+
+
+**Currently Learning:**
+Voice AI
+Machine Learning
+
+**Currently Working On:**
+Open source voice assistant made in Java
