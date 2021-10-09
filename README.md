@@ -43,3 +43,6 @@ Socials (click  me!):
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/disregardless1)
 
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() Delected#8100
+
+
+if you're looking for something that isn't on my profile, check [my project archives](https://github.com/Delected-Archives/). many of my old projects can be found there.
