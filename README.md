@@ -24,6 +24,7 @@ if i have free time, im usually learning something, playing beat saber, or worki
 - Spring
 
 ### Would love to learn in the future
+- Docker & Kubernetes
 - Kotlin
 - JS Framework such as Angular
 - Go
