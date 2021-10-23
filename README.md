@@ -7,7 +7,7 @@ Delected is licensed under the GNU/GPL-3.0 license
 if i have free time, im usually learning something, playing beat saber, or working out
 
 ### My devices:
-- ThinkBook 14 G2---running gentoo gnu/linux and windows 10 pro
+- ThinkBook 14 G2---running gentoo ~~gnu/linux~~ back to void linux! and windows 10 pro
 - Moto G 2015 (it still works great!)---running rooted android with termux
 - Raspberry Pi 4b---running raspberry pi os lite
 
